@@ -1,0 +1,61 @@
+.body {
+  background-image: url("./img2.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 570px;
+  overflow: hidden;
+}
+.x {
+  background-color: rgb(41,170,227);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+  overflow: hidden;
+  width: 100%;
+  text-align: center;
+}
+.z {
+  overflow-x: hidden;
+  overflow-y: hidden;
+  background-color: white;
+}
+.head {
+  background-color: black;
+}
+.jumbotron {
+  background-color: rgb(41,170,227);
+  font-weight: bolder;
+}
+.factor{
+  margin-left: 50px;
+}
+.random{
+  position: relative;
+  margin-top: 100px;
+  width: 400px;
+  margin: auto;
+}
+.common{
+  margin: auto;
+  margin-top: 70px;
+  margin-bottom: 70px;
+  width: 250px;
+  font-weight: bold;
+  
+}
+.option{
+  margin-top: 50px;
+  font-size: 34px;
+  font-weight: bolder;
+}
+.url{
+  color: red;
+}
+
+.inputbox{
+  position: relative;
+  width: 400px;
+  margin: auto;
+}
